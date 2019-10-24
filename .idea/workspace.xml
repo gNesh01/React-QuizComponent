@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9124ead-067c-420b-9914-04b353e3ebf6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/QuizQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuizEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuizEnd.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Quiz.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Quiz.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Quiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="442">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -25,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuizQuestion.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuizQuestion.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="41" column="96" selection-start-line="41" selection-start-column="96" selection-end-line="41" selection-end-column="96" />
+            <state relative-caret-position="306">
+              <caret line="28" column="65" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="65" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -70,8 +71,8 @@
       <file leaf-file-name="QuizEnd.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuizEnd.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -85,11 +86,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/QuizEnd.js" />
         <option value="$PROJECT_DIR$/src/quiz_data.json" />
         <option value="$PROJECT_DIR$/src/QuizQuestionButton.js" />
-        <option value="$PROJECT_DIR$/src/Quiz.js" />
         <option value="$PROJECT_DIR$/src/QuizQuestion.js" />
+        <option value="$PROJECT_DIR$/src/QuizEnd.js" />
+        <option value="$PROJECT_DIR$/src/Quiz.js" />
       </list>
     </option>
   </component>
@@ -168,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571839689630</updated>
-      <workItem from="1571839691167" duration="7985000" />
+      <workItem from="1571839691167" duration="11000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7985000" />
+    <option name="totallyTimeSpent" value="11000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1419" height="1057" extended-state="0" />
@@ -249,13 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuizEnd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/quiz_data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -263,20 +257,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Quiz.js">
+    <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="65" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/QuizQuestion.js">
+    <entry file="file://$PROJECT_DIR$/src/QuizEnd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="41" column="96" selection-start-line="41" selection-start-column="96" selection-end-line="41" selection-end-column="96" />
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
